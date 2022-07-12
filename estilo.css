@@ -1,0 +1,36 @@
+body{
+    background-color: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+#op1{
+    border: 10px solid orange;
+    float: left;
+}
+
+#op2{
+    border: 10px solid rgb(189, 55, 25);
+    float: right;
+}
+
+#op3{
+    border: 10px solid rgba(149, 255, 0, 0.781);
+    float: left;
+}
+
+#op4{
+    border: 10px solid rgb(19, 14, 172);
+    float: right;
+}
+
+div{
+    width: 40%;
+}
